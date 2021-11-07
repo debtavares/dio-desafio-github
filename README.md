@@ -20,4 +20,5 @@ git config --global user.email "seu-email@example.com"
 <p><strong>git init</strong>: iniciar git; <br>
   <strong>git status</strong>: relatório do que foi feito; <br>
   <strong>git add .</strong> : adicionar no git; <br>
-  <strong>git commit -m "Primeira versão do projeto"</strong>: adicionar/alterar um ponto. </p> 
+  <strong>git commit -m "Primeira versão do projeto"</strong>: adicionar/alterar um ponto. 
+  <strong>git push origin main</strong>: subir pro github</p> 
